@@ -1,0 +1,36 @@
+📦 Storyboard Copilot v0.1.7 构建状态报告
+==========================================
+
+✅ 文件上传成功！
+   - 仓库：https://github.com/1462274097a-code/aa
+   - 分支：main
+   - 标签：v0.1.7
+
+🔨 GitHub Actions 构建进行中...
+   - 状态：in_progress（进行中）
+   - 工作流：Build Storyboard-Copilot
+   - 开始时间：2025-03-09 17:31:31
+
+⏱️ 预计完成时间
+   - Windows 构建：20-30 分钟
+   - macOS 构建：25-35 分钟
+   - 总计：约 30-60 分钟
+
+📦 构建产物
+   ✅ Windows 安装程序 (.exe)
+   ✅ macOS 安装程序 (.dmg)
+   ✅ GitHub Release 自动创建
+
+🔗 实时监控链接
+   - GitHub Actions：https://github.com/1462274097a-code/aa/actions
+   - 构建详情：https://github.com/1462274097a-code/aa/actions/workflows/build.yml
+   - 发布页面：https://github.com/1462274097a-code/aa/releases/tag/v0.1.7
+
+📥 构建完成后下载
+   1. 访问：https://github.com/1462274097a-code/aa/releases/tag/v0.1.7
+   2. 下载：
+      - Storyboard-Copilot_0.1.7_x64-setup.exe（Windows）
+      - Storyboard-Copilot_0.1.7_universal.dmg（macOS）
+
+📱 构建完成后将收到通知...
+==========================================
